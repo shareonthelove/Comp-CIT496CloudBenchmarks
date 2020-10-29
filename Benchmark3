@@ -1,0 +1,12 @@
+<html>
+  <head><title>Benchmarks</title></head>
+<body>
+  <?php
+  ?>
+  <?
+    foreach ($_ENV as $value) {
+      echo($value) . "<br>";
+    }
+  ?>
+</body>
+</html>
