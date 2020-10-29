@@ -4,9 +4,7 @@
   <?php
   ?>
   <?
-    foreach ($_ENV as $value) {
-      echo($value) . "<br>";
-    }
+    var_dump($_ENV);
   ?>
 </body>
 </html>
