@@ -3,10 +3,10 @@
 These Benchmarks are designated to test Apache, Litespeed, & NginX servers.
 
 Benchmark 1:
-  Output "Hello World"
+  Outputs "Hello World"
   
 Benchmark 2:
-  Output no-op (echo "";)
+  Outputs no-op (echo "";)
   
 Benchmark 3:
   ENV - prints out all CGI environment variables in a LOOP
