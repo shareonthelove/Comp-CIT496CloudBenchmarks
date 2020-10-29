@@ -1,0 +1,8 @@
+<html>
+  <head><title>Benchmarks</title></head>
+<body>
+  <?php
+  ?>
+  <h1><? echo "Hello World"; ?></h1>
+</body>
+</html>
