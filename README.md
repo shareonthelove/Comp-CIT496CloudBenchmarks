@@ -19,3 +19,6 @@ Benchmark 5:
   
 Benchmark 6:
   Echo Request variables with var_dump?
+  
+Benchmark 7:
+  Professor's newid.php 
