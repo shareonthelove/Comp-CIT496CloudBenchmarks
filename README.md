@@ -6,7 +6,7 @@ Benchmark 1:
   Output "Hello World"
   
 Benchmark 2:
-  Output no-op (echo "")
+  Output no-op (echo "";)
   
 Benchmark 3:
   ENV - prints out all CGI environment variables in a LOOP
@@ -21,4 +21,4 @@ Benchmark 6:
   Echo Request variables with var_dump passed via HTML - (http://localhost/newid.php?name=shareonthelove&job=student)
   
 Benchmark 7:
-  Professor's newid.php 
+  Professor's newid.php - must have access to professor's "cloudproject" database (mysql)
