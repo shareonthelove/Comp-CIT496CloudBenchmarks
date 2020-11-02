@@ -1,6 +1,6 @@
 # Comp-CIT496CloudBenchmarks
 
-These Benchmarks are designated to test Apache, Litespeed, & NginX servers.
+These Benchmarks are designated to test EC2/ECS, Litespeed, & NginX servers with Apache Benchmarks.
 
 Benchmark 1:
   Outputs "Hello World"
