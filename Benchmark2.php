@@ -1,8 +1,6 @@
 <html>
   <head><title>Benchmark2</title></head>
 <body>
-  <?php
-  ?>
-  <? echo ""; ?>
+  <?php echo ""; ?>
 </body>
 </html>
