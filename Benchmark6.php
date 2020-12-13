@@ -4,7 +4,7 @@
 <?php
   foreach ($_REQUEST as $value) {
     echo($value);
-    echo '&nbsp;'
+    echo '&nbsp;';
   }
 ?>
 </body>
