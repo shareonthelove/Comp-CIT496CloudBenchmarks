@@ -3,7 +3,8 @@
 <body>
 <?php
   foreach ($_REQUEST as $value) {
-    echo($value) . "<br>";
+    echo($value);
+    echo '&nbsp;'
   }
 ?>
 </body>
